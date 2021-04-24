@@ -1,0 +1,14 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+anagramInString	anagramInString.cpp	/^std::vector<size_t>  anagramInString(const std::string& src, const std::string& perm)$/;"	kind:f	line:6	signature:(const std::string& src, const std::string& perm)
+isPerm	permInString.cpp	/^bool isPerm(const std::string& s1, const std::string& s2)$/;"	kind:f	line:5	signature:(const std::string& s1, const std::string& s2)
+longestSubstringWoRept	longestSubWoReap.cpp	/^size_t longestSubstringWoRept(const std::string& src)$/;"	kind:f	line:5	signature:(const std::string& src)
+main	anagramInString.cpp	/^int main()$/;"	kind:f	line:42	signature:()
+main	longestSubWoReap.cpp	/^int main()$/;"	kind:f	line:35	signature:()
+main	minWinSubstring.cpp	/^int main()$/;"	kind:f	line:48	signature:()
+main	permInString.cpp	/^int main()$/;"	kind:f	line:40	signature:()
+minWinSubstring	minWinSubstring.cpp	/^std::string minWinSubstring(const std::string& src, const std::string& target)$/;"	kind:f	line:5	signature:(const std::string& src, const std::string& target)
